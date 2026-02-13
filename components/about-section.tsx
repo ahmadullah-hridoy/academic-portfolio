@@ -3,7 +3,7 @@
 import { motion } from "framer-motion"
 import { useInView } from "framer-motion"
 import { useRef } from "react"
-import { GraduationCap, Award, Target } from "lucide-react"
+import { GraduationCap, Award, Target, Briefcase, Users } from "lucide-react"
 
 export function AboutSection() {
   const ref = useRef(null)
