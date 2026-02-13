@@ -24,8 +24,8 @@ const journals = [
     title: "Defect Engineering in Nanomaterials: A Pathway to Enhanced Hydrogen Storage Performance",
     authors: "A. Hridoy, R. B. Siddique, N. I. Alam, A. K. M. A. Habib, M. A. R. Tonmoy, M. A. Zaed, and R. Saidur",
     journal: "International Journal of Energy Research",
-    year: "2025",
-    status: "Under review",
+    year: "2026",
+    doi: "https://doi.org/10.1155/er/5418933",
   },
 ]
 
