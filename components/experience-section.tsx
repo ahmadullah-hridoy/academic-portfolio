@@ -14,9 +14,10 @@ const experiences = [
     period: "May 2025 - Ongoing",
     location: "Rajshahi",
     highlights: [
-      "Designed a CTS-based thin-film solar cell with ferroelectric PVDF layer",
-      "Synthesized Cu₂SnS₃ (CTS) absorber via hydrothermal method",
-      "Fabricated PVDF layer with controlled thickness and polarization",
+      "Designed a LiNiO₂-based thin-film solar cell with ferroelectric PVDF and BiFeO₃ composite layer",
+      "Synthesized LiNiO₂ absorber layer via hydrothermal method",
+      "Synthesized BiFeO₃  via ball milling method",
+      "Fabricated BiFeO₃ and PVDF composite layer with controlled thickness and polarization",
     ],
   },
   {
