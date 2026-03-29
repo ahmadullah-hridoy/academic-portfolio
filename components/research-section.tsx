@@ -26,8 +26,8 @@ const projects = [
   {
     title: "Ferroelectric Solar Cell (Thesis)",
     icon: Beaker,
-    description: "Designed and fabricated a ferroelectric solar cell using poled PVDF integrated with CTS layer. Studying ferroelectric polarization effects on carrier separation.",
-    tags: ["Thesis", "PVDF", "CTS"],
+    description: "Designed and fabricated a ferroelectric solar cell using poled PVDF + BiFeO₃ integrated layer with LiNiO₂ layer. Studying ferroelectric polarization effects on carrier separation.",
+    tags: ["Thesis", "PVDF", "BiFeO₃", "LiNiO₂"],
   },
   {
     title: "Green Synthesis of Nanoparticles",
