@@ -21,7 +21,7 @@ export function HeroSection() {
             transition={{ delay: 0.2 }}
             className="text-primary font-mono text-sm tracking-wider uppercase"
           >
-            Prospective MS Student 
+            Prospective Graduate Student 
           </motion.p>
           
           <motion.h1
